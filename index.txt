@@ -1,0 +1,29 @@
+Brainstorming
+
+user 
+Email
+Password
+Ingredients
+Recipes
+Grocery lists
+Occasions
+
+Table Ideas
+
+User
+	
+
+Recipes(middle table for public/private)
+
+Public recipes
+
+Private recipes
+
+Ingredients
+
+Grocery Lists(fk to ingredients)
+
+Occasions
+
+
+https://app.dbdesigner.net/designer/schema/571057
